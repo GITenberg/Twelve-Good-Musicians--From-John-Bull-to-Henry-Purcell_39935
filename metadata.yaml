@@ -1,0 +1,36 @@
+_repo: Twelve-Good-Musicians--From-John-Bull-to-Henry-Purcell_39935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bridge, Frederick
+    aliases:
+    - Bridge, J. F. (John Frederick)
+    - Bridge, John Frederick
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '40318'
+    url: http://www.gutenberg.org/2009/agents/40318
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Bridge
+description: ''
+gutenberg_issued: '2012-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39935'
+  lccn: '21008622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Musicians -- England'
+tableOfContents: Dr. John Bull, 1563(?)-1628 -- William Byrd, 1542-3-1623 -- Thomas
+  Morley, 1557-1603 -- Thomas Weelkes, 1575(?)-1623 -- Orlando Gibbons, 1583-1625
+  -- Richard Deering, 1580(?)-1630 -- John Milton, 1553-1646-7 -- Henry Lawes, 1595-1662
+  -- Matthew Locke, 1630(?)-1677 -- Pelham Humfrey, 1647-1674 -- Dr John Blow, 1648-1708
+  -- Henry Purcell, 1658-1695.
+title: 'Twelve Good Musicians: From John Bull to Henry Purcell'
+url: http://www.gutenberg.org/ebooks/39935
