@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40318
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Bridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39935#Twelve-Good-Musicians--From-John-Bull-to-Henry-Purcell
 gutenberg_issued: '2012-06-07'
 gutenberg_type: Text
 identifiers:
